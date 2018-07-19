@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="21px" viewBox="0 0 21 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>add-3</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="2.-On-Click-Effect" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-1454.000000, -348.000000)">
+        <g id="add-3" transform="translate(1464.500000, 358.500000) rotate(45.000000) translate(-1464.500000, -358.500000) translate(1454.000000, 348.000000)" fill="#4A4A4A" fill-rule="nonzero" stroke="#FFFFFF" stroke-width="3">
+            <path d="M18.5295,8 L13,8 L13,2.4705 C13,1.112 11.859,0 10.5,0 C9.141,0 8,1.112 8,2.4705 L8,8 L2.4705,8 C1.112,8 0,9.141 0,10.5 C0,11.859 1.112,13 2.4705,13 L8,13 L8,18.5295 C8,19.888 9.141,21 10.5,21 C11.859,21 13,19.888 13,18.5295 L13,13 L18.5295,13 C19.888,13 21,11.859 21,10.5 C21,9.141 19.888,8 18.5295,8 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>
